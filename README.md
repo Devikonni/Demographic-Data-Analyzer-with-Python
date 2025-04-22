@@ -52,33 +52,26 @@ This project is part of a curriculum challenge to develop a deeper understanding
 
 1. **Clone the repository**:
 
-```bash
+
 git clone https://github.com/your-username/demographic-data-analyzer.git
-Install dependencies:
+**Install dependencies:
 
 Ensure that you have Python 3 installed. You can install the necessary Python packages by running:
 
-bash
-Copy
-Edit
-pip install pandas
-Run the project:
+ 
+  pip install pandas
+## Run the project:
 
 The main script for the project is demographic_data_analyzer.py. To run the analysis, execute the following command:
 
-bash
-Copy
-Edit
+ 
 python demographic_data_analyzer.py
-Testing:
+## **Testing:**
 
 The unit tests for this project are in test_module.py. To ensure the code works as expected, you can run the tests using:
 
-bash
-Copy
-Edit
-pytest test_module.py
-Usage:
+ pytest test_module.py
+### **Usage:**
 The project reads the demographic dataset (typically in CSV format) and performs various analyses, including:
 
 Race distribution: How many people of each race are in the dataset.
@@ -91,9 +84,7 @@ Advanced education earnings: Calculate the percentage of people with advanced ed
 
 Country with highest earnings: Identify the country with the highest percentage of people earning more than 50K.
 
-License:
+## **License:**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-pgsql
-Copy
-Edit
+ 
